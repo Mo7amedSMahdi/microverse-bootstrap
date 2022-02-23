@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+body {
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+}
+
+.header {
+  padding: 16px 143px;
+}
+
+.intro {
+  padding: 48px 34px;
+  background-image: url("./images/header_background.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
